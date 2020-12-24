@@ -310,3 +310,13 @@ layouts:
     comfortable: 宽松
     compact: 紧凑
     cozy: 适中
+all_users: 全部用户
+delete_collection: 删除收藏
+update_collection_success: 更新收藏
+delete_collection_success: 删除收藏
+delete_collection_are_you_sure: >-
+  您确定要删除该收藏吗?这将会删除
+  收藏和其中的所有项目,且不能撤回
+collections_shown: 收藏注释
+visible_collections: 可见收藏
+hidden_collections: 隐藏的收藏
